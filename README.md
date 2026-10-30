@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/going-dark-banner.svg" alt="Going Dark: what the UK loses when short sellers become anonymous" width="100%">
+  <img src="going-dark-banner.svg" alt="Going Dark: what the UK loses when short sellers become anonymous" width="100%">
 </p>
 
 <p align="center">
@@ -210,8 +210,8 @@ Balanced class weights handle the rarity of squeezes. `random_state=42` makes ev
 | Money test vs FTSE 250 | ⏳ |
 
 <p align="center">
-  <img src="assets/crowding-heatmap-example.png" alt="Illustrative crowding heatmap" width="48%">
-  <img src="assets/stock-view-example.png" alt="Illustrative stock view" width="48%">
+  <img src="crowding-heatmap-example.png" alt="Illustrative crowding heatmap" width="48%">
+  <img src="stock-view-example.png" alt="Illustrative stock view" width="48%">
 </p>
 <p align="center"><sub><i>Illustrative only: practice data, not real FCA results.</i></sub></p>
 
